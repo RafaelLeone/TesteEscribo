@@ -1,6 +1,6 @@
-## TesteEscribo
+# TesteEscribo
 
-# Como rodar:
+## Como rodar:
 
 
 1. Baixe o arquivo ou copie o código para qualquer pasta de sua escolha.
@@ -21,10 +21,10 @@
 - Na última linha do arquivo numbers.js você pode trocar o número de exemplo (11) para qualquer número inteiro e positivo.
 
 
-O código irá retornar a soma dos múltiplos de 3 ou 5 que são menores do que o número que você colocou na última linha (na chamada da função.)
+### O código irá retornar a soma dos múltiplos de 3 ou 5 que são menores do que o número que você colocou na última linha (na chamada da função.)
 
 
-# O que pode dar errado:
+## O que pode dar errado:
 
 
 Você pode não ter o node instalado na sua máquina para conseguir utilizá-lo. Você pode procurar um compilador de JavaScript online como [este](https://www.programiz.com/javascript/online-compiler/) e substituir o que está escrito na linha 4 pelo código que está em nosso arquivo numbers.js, e clicar em Run (botão azul no site.)
